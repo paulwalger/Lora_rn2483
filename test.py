@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
-
-from Lora_Node.rn2483 import Lora
+from rn2483 import Lora
 import datetime
 
 # init the serial connection
